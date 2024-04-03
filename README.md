@@ -1,6 +1,8 @@
 # python_file_handling
 file_handling_assignment in python
-tasks
+
+TASKS
+
 File Reading and Display:
 Enhance your script to read the contents of "my_file.txt" and display them on the console.
 
